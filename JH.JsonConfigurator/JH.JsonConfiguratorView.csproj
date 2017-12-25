@@ -95,6 +95,12 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\JH.JsonConfiguratorLibrary\JH.JsonConfiguratorLibrary.csproj">
+      <Project>{df177a7c-38e2-4780-abe0-6bd7358432c9}</Project>
+      <Name>JH.JsonConfiguratorLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
