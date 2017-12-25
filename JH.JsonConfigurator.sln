@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JH.JsonConfigurator", "JH.JsonConfigurator\JH.JsonConfigurator.csproj", "{D1A57B41-14EC-48C9-A7D8-F4AFDD157C1B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JH.JsonConfiguratorView", "JH.JsonConfigurator\JH.JsonConfiguratorView.csproj", "{D1A57B41-14EC-48C9-A7D8-F4AFDD157C1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JH.JsonConfiguratorLibrary", "JH.JsonConfiguratorLibrary\JH.JsonConfiguratorLibrary.csproj", "{DF177A7C-38E2-4780-ABE0-6BD7358432C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D1A57B41-14EC-48C9-A7D8-F4AFDD157C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1A57B41-14EC-48C9-A7D8-F4AFDD157C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1A57B41-14EC-48C9-A7D8-F4AFDD157C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF177A7C-38E2-4780-ABE0-6BD7358432C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF177A7C-38E2-4780-ABE0-6BD7358432C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF177A7C-38E2-4780-ABE0-6BD7358432C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF177A7C-38E2-4780-ABE0-6BD7358432C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

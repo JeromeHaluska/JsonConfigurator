@@ -1,9 +1,9 @@
-﻿<Application x:Class="JH.JsonConfigurator.App"
+﻿<Application x:Class="JH.JsonConfiguratorView.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:JH.JsonConfigurator"
+             xmlns:local="clr-namespace:JH.JsonConfiguratorView"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+
     </Application.Resources>
 </Application>

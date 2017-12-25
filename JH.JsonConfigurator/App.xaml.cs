@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace JH.JsonConfigurator
+namespace JH.JsonConfiguratorView
 {
     /// <summary>
     /// Interaction logic for App.xaml

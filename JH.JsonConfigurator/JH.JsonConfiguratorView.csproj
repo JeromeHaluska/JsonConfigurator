@@ -7,8 +7,8 @@
     <ProjectGuid>{D1A57B41-14EC-48C9-A7D8-F4AFDD157C1B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>JH.JsonConfigurator</RootNamespace>
-    <AssemblyName>JH.JsonConfigurator</AssemblyName>
+    <RootNamespace>JH.JsonConfiguratorView</RootNamespace>
+    <AssemblyName>JH.JsonConfiguratorView</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
